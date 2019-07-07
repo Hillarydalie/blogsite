@@ -13,7 +13,7 @@ This is a blog about my experiences in life as a Christian. All the articles on 
 
 ## Setup/Installation Requirements
 * You don't need a server to view or use it, a Web Browser would do. Prefarably Google Chrome. 
-* Fork the code from my Githup Repository; In the case of link not working, https://github.com/Hillarydalie/pet_repo.git 
+* Fork the code from my Githup Repository; In the case of link not working, https://github.com/Hillarydalie/blogsite.git 
 * Clone the code and download as a zip file.
 * Unzip the file and you'll see the folder blogsite.
 * In the folder open blogsite.html 
